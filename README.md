@@ -3,7 +3,7 @@
 apt update && apt upgrade -y
 ```
 ```
-git clone https://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@github.com/ricoogh/ubot
+git clone https://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@github.com/yoelz12/ubot
 ```
 ```
 cd ubot && screen -S ubot
