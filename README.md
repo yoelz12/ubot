@@ -3,7 +3,7 @@
 apt update && apt upgrade -y
 ```
 ```
-git clone https://ghp_qxxxx@github.com/ricoogh/ubot
+git clone https://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@github.com/ricoogh/ubot
 ```
 ```
 cd ubot && screen -S ubot
@@ -33,17 +33,4 @@ screen -S ubot
 python3 -m PyroUbot
 ```
 ```
----------- Menghidupan jika ubot mati -------------
-```
-```
-cd ubotalfnew && screen -S ubotalfnew
-```
-```
-python3 -m venv venv && source venv/bin/activate
-```
-```
-screen -S ubotalfnew
-```
-```
-python3 -m PyroUbot
-```
+---------- DONE BY MAK RICO ---------
